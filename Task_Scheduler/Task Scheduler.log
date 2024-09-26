@@ -1,0 +1,20 @@
+Sept 26, 2024 10:41:31 PM TaskManager.ScheduleManager addTask
+INFO: Adding a task in schedule: Jumba dance 
+Sept 26, 2024 10:41:31 PM TaskManager.ScheduleManager addTask
+INFO: Task Jumba dance added successfully 
+Sept 26, 2024 10:42:32 PM TaskManager.ScheduleManager addTask
+INFO: Adding a task in schedule: Quick nap 
+Sept 26, 2024 10:42:32 PM TaskManager.ScheduleManager addTask
+INFO: Task Quick nap added successfully 
+Sept 26, 2024 10:42:38 PM TaskManager.ScheduleManager viewTasks
+INFO: Checking out all the task
+Sept 26, 2024 10:43:02 PM TaskManager.ScheduleManager updateStatus
+INFO: Trying to update the status of task Jumba dance  
+Sept 26, 2024 10:43:02 PM TaskManager.ScheduleManager updateStatus
+WARNING: Task not found 
+Sept 26, 2024 10:43:35 PM TaskManager.ScheduleManager updateStatus
+INFO: Trying to update the status of task Quick nap 
+Sept 26, 2024 10:43:35 PM TaskManager.ScheduleManager updateStatus
+INFO: Status of task Quick nap updated successfully 
+Sept 26, 2024 10:43:39 PM TaskManager.ScheduleManager viewTasks
+INFO: Checking out all the task
