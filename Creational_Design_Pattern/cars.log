@@ -1,0 +1,31 @@
+
+Sept 28, 2024 11:33:15 PM builder_design_pattern.CarMain main
+INFO: Asking from user their preference
+Sept 28, 2024 11:33:23 PM builder_design_pattern.CarMain main
+INFO: User gave its preference
+Sept 28, 2024 11:33:23 PM builder_design_pattern.CarMain main
+INFO: User gave invalid input
+Sept 28, 2024 11:33:23 PM builder_design_pattern.CarMain main
+INFO: Closing the main function
+Sept 28, 2024 11:33:35 PM builder_design_pattern.CarMain main
+INFO: Asking from user their preference
+Sept 28, 2024 11:33:41 PM builder_design_pattern.CarMain main
+INFO: User gave its preference
+Sept 28, 2024 11:33:41 PM builder_design_pattern.CarMain main
+INFO: User opted for family car
+Sept 28, 2024 11:33:41 PM builder_design_pattern.CarConstruction sportCarConstruct
+INFO: Adding engine to sport car...
+Sept 28, 2024 11:33:41 PM builder_design_pattern.CarConstruction sportCarConstruct
+INFO: Adding seats in sport car...
+Sept 28, 2024 11:33:41 PM builder_design_pattern.CarConstruction sportCarConstruct
+INFO: Fuel tank is injected to sport car...
+Sept 28, 2024 11:33:41 PM builder_design_pattern.CarConstruction sportCarConstruct
+INFO: Implementing gps in car...
+Sept 28, 2024 11:33:41 PM builder_design_pattern.CarConstruction sportCarConstruct
+INFO: Adding manual gear to sport car...
+Sept 28, 2024 11:33:41 PM builder_design_pattern.CarConstruction sportCarConstruct
+INFO: Sport car is ready to roll...
+Sept 28, 2024 11:33:41 PM builder_design_pattern.CarMain main
+INFO: Car is read..
+Sept 28, 2024 11:33:41 PM builder_design_pattern.CarMain main
+INFO: Closing the main function
