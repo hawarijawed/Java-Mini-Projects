@@ -1,0 +1,24 @@
+Sept 28, 2024 7:14:22 PM template_design_pattern.Main main
+INFO: Creating an instance of textFielProcessing
+Sept 28, 2024 7:14:22 PM template_design_pattern.Main main
+INFO: File name is give to read data inside main function
+Sept 28, 2024 7:14:22 PM template_design_pattern.Main main
+INFO: Text File Processing methods starts
+Sept 28, 2024 7:14:22 PM template_design_pattern.FileHandling fileProcessing
+INFO: Entering the fileProcessing method...
+Sept 28, 2024 7:14:22 PM template_design_pattern.FileHandling openFile
+INFO: Attempting to open file abc.txt
+Sept 28, 2024 7:14:22 PM template_design_pattern.FileHandling openFile
+INFO: Exiting from openFile() method...
+Sept 28, 2024 7:14:22 PM template_design_pattern.TextFileProcessing readFile
+INFO: Inside the readFile method
+Sept 28, 2024 7:14:22 PM template_design_pattern.TextFileProcessing readFile
+INFO: Creating a file reader
+Sept 28, 2024 7:14:22 PM template_design_pattern.TextFileProcessing readFile
+INFO: Could not read the abc.txt due to internal error
+Sept 28, 2024 7:14:22 PM template_design_pattern.TextFileProcessing processData
+INFO: Entering into processData() method...
+Sept 28, 2024 7:14:22 PM template_design_pattern.TextFileProcessing processData
+INFO: File does not exist, exiting processData()...
+Sept 28, 2024 7:14:22 PM template_design_pattern.Main main
+INFO: Closing the main() method...
