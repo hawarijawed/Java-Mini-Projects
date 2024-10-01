@@ -1,0 +1,33 @@
+Oct 01, 2024 9:19:51 PM adapter_design_pattern.PaymentAdapter processPayment
+INFO: Processing payment for account: tony123@gmail.com for amount: $5230000.32
+Oct 01, 2024 9:19:51 PM adapter_design_pattern.PaymentAdapter processPayment
+INFO: Payment processed successfully for account: tony123@gmail.com
+Oct 01, 2024 9:19:51 PM adapter_design_pattern.PaymentIntegrationTester main
+INFO: Payment succeeded: true
+Oct 01, 2024 9:19:51 PM adapter_design_pattern.PaymentAdapter processPayment
+SEVERE: Invalid account number
+Oct 01, 2024 9:19:51 PM adapter_design_pattern.PaymentIntegrationTester main
+WARNING: Exception caught: Account number cannot be null or empty
+Oct 01, 2024 9:19:51 PM adapter_design_pattern.PaymentAdapter processPayment
+SEVERE: Invalid payment amount
+Oct 01, 2024 9:19:51 PM adapter_design_pattern.PaymentIntegrationTester main
+WARNING: Exception caught: Payment amount must be greater than zero
+Oct 01, 2024 9:30:01 PM adapter_design_pattern.PaymentIntegrationTester main
+INFO: Invalid email
+Oct 01, 2024 9:30:18 PM adapter_design_pattern.PaymentIntegrationTester main
+INFO: Invalid email
+Oct 01, 2024 9:30:32 PM adapter_design_pattern.PaymentAdapter processPayment
+INFO: Processing payment for account: sc123@gmail.com for amount: $2319200.0
+Oct 01, 2024 9:30:32 PM adapter_design_pattern.PaymentAdapter processPayment
+INFO: Payment processed successfully for account: sc123@gmail.com
+Oct 01, 2024 9:30:32 PM adapter_design_pattern.PaymentIntegrationTester main
+INFO: Payment succeeded: true
+Oct 01, 2024 9:30:32 PM adapter_design_pattern.PaymentAdapter processPayment
+SEVERE: Invalid account number
+Oct 01, 2024 9:30:32 PM adapter_design_pattern.PaymentIntegrationTester main
+WARNING: Exception caught: Account number cannot be null or empty
+Oct 01, 2024 9:30:32 PM adapter_design_pattern.PaymentAdapter processPayment
+SEVERE: Invalid payment amount
+Oct 01, 2024 9:30:32 PM adapter_design_pattern.PaymentIntegrationTester main
+WARNING: Exception caught: Payment amount must be greater than zero
+

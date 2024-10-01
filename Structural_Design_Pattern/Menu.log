@@ -1,0 +1,20 @@
+Oct 02, 2024 1:05:01 AM composite_design_pattern.MenuUpdate addComponent
+INFO: Menu element Pancakes added to Breakfast Menu
+Oct 02, 2024 1:05:01 AM composite_design_pattern.MenuUpdate addComponent
+INFO: Menu element Omelette added to Breakfast Menu
+Oct 02, 2024 1:05:01 AM composite_design_pattern.MenuUpdate addComponent
+INFO: Menu element Burger added to Lunch Menu
+Oct 02, 2024 1:05:01 AM composite_design_pattern.MenuUpdate addComponent
+INFO: Menu element Sandwich added to Lunch Menu
+Oct 02, 2024 1:05:01 AM composite_design_pattern.MenuUpdate addComponent
+INFO: Menu element Breakfast Menu added to Main Menu
+Oct 02, 2024 1:05:01 AM composite_design_pattern.MenuUpdate addComponent
+INFO: Menu element Lunch Menu added to Main Menu
+Oct 02, 2024 1:05:01 AM composite_design_pattern.MenuUpdate addComponent
+WARNING: Trying to add null menu element
+Oct 02, 2024 1:05:01 AM composite_design_pattern.MainSystem main
+WARNING: Exception caught: Null component can't be added to menu
+Oct 02, 2024 1:05:01 AM composite_design_pattern.MenuUpdate getChild
+WARNING: Trying to access invalid index: 10
+Oct 02, 2024 1:05:01 AM composite_design_pattern.MainSystem main
+WARNING: Exception caught: Invalid index: 10
