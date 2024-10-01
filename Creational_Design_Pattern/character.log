@@ -1,0 +1,30 @@
+Oct 01, 2024 7:36:39 PM factory_design_pattern.Main main
+INFO: Instantiating scanner object
+Oct 01, 2024 7:36:39 PM factory_design_pattern.Main main
+INFO: Asking for character name
+Oct 01, 2024 7:36:58 PM factory_design_pattern.Main main
+INFO: Asking for profession of character
+Oct 01, 2024 7:37:05 PM factory_design_pattern.Main main
+INFO: Creating a character from CharacterFactory object
+Oct 01, 2024 7:37:05 PM factory_design_pattern.CharacterFactory ProduceCharacter
+INFO: Inside the Character Factor class method..
+Oct 01, 2024 7:37:05 PM factory_design_pattern.CharacterFactory ProduceCharacter
+INFO: Character Warrior is updating
+Oct 01, 2024 7:37:05 PM factory_design_pattern.Main main
+INFO: Showing first overview of character
+Oct 01, 2024 7:37:05 PM factory_design_pattern.Main main
+INFO: Asking for update in character life/health
+Oct 01, 2024 7:37:20 PM factory_design_pattern.Main main
+INFO: Asking which feature of character user wants to update
+Oct 01, 2024 7:37:29 PM factory_design_pattern.Main main
+INFO: Asking how much Health user want to add in character
+Oct 01, 2024 7:37:33 PM factory_design_pattern.Main main
+INFO: Character updation instantiated using UpdateClass..
+Oct 01, 2024 7:37:33 PM factory_design_pattern.UpdateClass updateCharacter
+INFO: Inside the update character class...
+Oct 01, 2024 7:37:33 PM factory_design_pattern.UpdateClass updateCharacter
+INFO: Matching the character attribute...
+Oct 01, 2024 7:37:33 PM factory_design_pattern.UpdateClass updateCharacter
+INFO: Setting up the character health
+Oct 01, 2024 7:37:33 PM factory_design_pattern.Main main
+INFO: Presenting the overview of character after update
